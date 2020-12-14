@@ -1,0 +1,16 @@
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.csprojAssemblyReference.cache
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\interfaces.exe
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\interfaces.deps.json
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.json
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.dev.json
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\interfaces.dll
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\ref\interfaces.dll
+D:\innRoad\interfaces\src\interfaces\bin\Debug\net5.0\interfaces.pdb
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.dll
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\ref\interfaces.dll
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.pdb
+D:\innRoad\interfaces\src\interfaces\obj\Debug\net5.0\interfaces.genruntimeconfig.cache
